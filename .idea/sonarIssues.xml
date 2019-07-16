@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/.m2/repository/com/mcdonalds/mcdsdk-ordering/1.1.58d2597/mcdsdk-ordering-1.1.58d2597-sources.jar!/com/mcdonalds/androidsdk/ordering/network/internal/CreateOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/sampledata/moviedata.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/sampledata/moviesdata.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/sampledata/users_data.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/debug/assets/ar/moviesdata.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/debug/assets/ar/users_data.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/debug/assets/en/users_data.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/shunya/sampledata/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/shunya/sampledata/Util.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/movie_row.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/movies_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/user_row.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/user_row_sampledata.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/user_row_tools_data.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values-ar/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values-fr/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/users_data.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/test/java/com/shunya/sampledata/ExampleUnitTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/DAP/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/DAP/libraries/android-mcd-core-app/android-mcd-offer/src/main/java/com/mcdonalds/offer/util/DealHelperExtended.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/DAP/libraries/android-mcd-core-app/android-mcd-offer/src/main/java/com/mcdonalds/offer/util/DealModuleImplementation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/DAP/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/fragment/OrderProductBaseFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/DAP/libraries/android-mcd-core-app/mcdcoreapp/src/main/java/com/mcdonalds/mcdcoreapp/common/activity/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/DAP/libraries/android-mcd-core-app/mcdcoreapp/src/main/java/com/mcdonalds/mcdcoreapp/core/NotificationHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/DAP/libraries/android-mcd-core-app/mcdcoreapp/src/main/java/com/mcdonalds/mcdcoreapp/helper/interfaces/DealModuleInteractor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/DAP/libraries/android-mcd-core-app/mcdcoreapp/src/main/java/com/mcdonalds/mcdcoreapp/tutorial/activity/TutorialExistingUserActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/DAP/libraries/android-mcd-core-app/mcdcoreapp/src/main/java/com/mcdonalds/mcdcoreapp/tutorial/activity/TutorialPagerActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/drop2_repo/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/drop2_repo/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/drop2_repo/libraries/android-mcd-core-app/android-mcd-common/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/drop2_repo/libraries/android-mcd-core-app/android-mcd-order/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/drop2_repo/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/fragment/NewConfigFile.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/drop2_repo/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/util/CheckInValidationEngine.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/drop2_repo/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/util/Util.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/drop2_repo/libraries/android-mcd-core-app/android-mcd-order/src/test/java/com/mcdonalds/order/util/CheckInValidationEngineKotlinTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/drop2_repo/libraries/android-mcd-core-app/android-mcd-order/src/test/java/com/mcdonalds/order/util/StoreHelperTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/drop2_repo/libraries/android-mcd-core-app/android-mcd-order/src/test/java/com/mcdonalds/order/util/TestUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/drop2_repo/libraries/android-mcd-core-app/android-mcd-order/src/test/java/com/mcdonalds/order/util/TestUtil.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/drop2_repo/libraries/android-mcd-core-app/scripts/root.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/legacyGMA/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/legacyGMA/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/legacyGMA/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/fragment/OrderProductBaseFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/legacyGMA/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/fragment/OrderProductDetailsFragmentExtended.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/legacyGMA/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/util/ProductHelperExtended.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/legacyGMA/libraries/android-mcd-core-app/mcdcoreapp/src/main/java/com/mcdonalds/mcdcoreapp/common/AppCoreConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/android-mcd-payment-security/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-account/src/test/java/com/mcdonalds/account/util/OrderHelperDummy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-home-dashboard/src/main/java/com/mcdonalds/homedashboard/fragment/HomeDashboardFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-home-dashboard/src/main/java/com/mcdonalds/homedashboard/presenter/HomeDashboardPresenterImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/activity/OrderHelperActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/adapter/holder/OfferInfoViewHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/adapter/recentorders/BaseOrderReceiptAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/adapter/recentorders/OrderViewHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/datasource/OrderDataSource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/datasource/OrderDataSourceConnector.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/fragment/DealsSummaryFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/fragment/OrderBaseFulfillmentFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/fragment/OrderFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/fragment/OrderProductDetailsFragmentExtended.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/fragment/OrderProductListBaseFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/fragment/OrderProductListFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/fragment/OrderSummaryFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/fragment/ordersubcategory/SubCategoryPresenterImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/model/McdProduct.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/model/PriceType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/presenter/OrderPODSelectionImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/util/CheckInHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/util/FoundationalOrderManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/util/OrderModuleImplementation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/util/OrderingManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/util/ProductHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/android-mcd-order/src/test/java/com/mcdonalds/order/datasource/RestaurantMenuDataSourceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/libraries/android-gma-sdk-sapient/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/libraries/android-mcd-uikit/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/mcdcoreapp/src/main/java/com/mcdonalds/mcdcoreapp/appupgrade/OrderingMigrator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/mcdcoreapp/src/main/java/com/mcdonalds/mcdcoreapp/common/AppCoreConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/mcdcoreapp/src/main/java/com/mcdonalds/mcdcoreapp/common/model/CartViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/mcdcoreapp/src/main/java/com/mcdonalds/mcdcoreapp/common/model/PriceCalorieViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/mcdcoreapp/src/main/java/com/mcdonalds/mcdcoreapp/common/util/GeofenceManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/mcdcoreapp/src/main/java/com/mcdonalds/mcdcoreapp/common/util/LocationUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/mcdcoreapp/src/main/java/com/mcdonalds/mcdcoreapp/helper/interfaces/OrderModuleInteractor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/mcdcoreapp/src/main/java/com/mcdonalds/mcdcoreapp/order/model/CustomizationInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/m1/libraries/android-mcd-core-app/scripts/root.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/libraries/android-mcd-core-app/android-mcd-account/src/main/java/com/mcdonalds/account/activity/RecentAndFavActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/libraries/android-mcd-core-app/android-mcd-offer/src/main/java/com/mcdonalds/offer/util/DealHelperExtended.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/activity/OrderHelperActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/adapter/OrderProductItemsAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/datasource/OrderDataSourceConnector.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/fragment/OrderProductBaseFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/fragment/OrderProductDetailsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/fragment/OrderProductDetailsFragmentExtended.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/fragment/OrderProductListBaseFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/fragment/OrderProductListFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/model/McdProduct.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/presenter/OrderSentPresenterImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/presenter/ProductCustomizePresenterImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/libraries/android-mcd-core-app/android-mcd-order/src/main/java/com/mcdonalds/order/view/OrderView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/libraries/android-mcd-core-app/android-mcd-restaurant/src/main/java/com/mcdonalds/restaurant/viewmodel/StoreSelectionViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/libraries/android-mcd-core-app/mcdcoreapp/src/main/java/com/mcdonalds/mcdcoreapp/common/AppCoreConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/libraries/android-mcd-core-app/mcdcoreapp/src/main/java/com/mcdonalds/mcdcoreapp/common/model/CartViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/libraries/android-mcd-core-app/mcdcoreapp/src/main/java/com/mcdonalds/mcdcoreapp/common/model/DataSourceHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/libraries/android-mcd-core-app/mcdcoreapp/src/main/java/com/mcdonalds/mcdcoreapp/core/LocalCacheManagerImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/release6/libraries/android-mcd-core-app/mcdcoreapp/src/main/java/com/mcdonalds/mcdcoreapp/helper/interfaces/LocalCacheManagerDataSource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/sddemo/McDonaldsSDK/MCDSDKOrdering/src/main/java/com/mcdonalds/androidsdk/ordering/network/internal/BasketAPIHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/sddemo/McDonaldsSDK/MCDSDKOrdering/src/main/java/com/mcdonalds/androidsdk/ordering/network/internal/CreateOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/sddemo/McDonaldsSDK/scripts/version.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/sddemo/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/android/sddemo/fastlane/Fastfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

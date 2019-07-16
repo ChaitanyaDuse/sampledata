@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "name": "Chaitanya Duse",
+      "gender": "Male",
+      "isPremium": "true",
+      "mobile_no" : "+124535192",
+      "city" : "Bengaluru, India",
+      "avatar": "@sample/images"
+    }
+  ]
+}

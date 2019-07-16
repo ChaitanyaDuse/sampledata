@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+    <ImageView
+            android:id="@+id/user_avataar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:src="@sample/users_data.json/data/avatar"
+
+    />
+    <TextView android:id="@+id/user_full_name"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:padding="10dp"
+              android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+              android:layout_toEndOf="@+id/user_avataar"
+              tools:text="@sample/users_data.json/data/name"
+    />
+    <TextView android:id="@+id/user_cityr"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:padding="10dp"
+              tools:text="@sample/users_data.json/data/city"
+              android:layout_below="@+id/user_full_name"
+              android:layout_toEndOf="@+id/user_avataar"
+    />
+    <TextView android:id="@+id/user_number"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:padding="10dp"
+              tools:text="@sample/users_data.json/data/mobile_no"
+              android:layout_below="@+id/user_cityr"
+              android:layout_toEndOf="@+id/user_avataar"
+    />
+    <android.support.v7.widget.SwitchCompat
+            android:id="@+id/premium_membership_status"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            tools:checked="@sample/users_data.json/data/isPremium"
+    />
+
+</RelativeLayout>

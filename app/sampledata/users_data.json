@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "name": "تشيتانيا دوس",
+      "gender": "الذكر",
+      "subscription_type": "علاوة",
+      "isPremium": "true",
+      "mobile_no" : "+124535192",
+      "city" : "بنغالورو ، الهند",
+      "avatar": "@sample/images"
+    }
+  ]
+}
